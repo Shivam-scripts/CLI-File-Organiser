@@ -11,11 +11,11 @@ Execution Summary: Reports the total count of successfully organized files and s
 
 SUPPORTED CATEGORIES
 
-Images:    .png, .jpeg, .jpg, .gif
-Videos:    .mp4, .mov, .avi, .mkv, .webm
-Documents: .docx, .txt
-Audio:     .mp3, .wav, .flac
-Others:    Any other unlisted extension
+Images:    .png, .jpeg, .jpg, .gif \n
+Videos:    .mp4, .mov, .avi, .mkv, .webm \n
+Documents: .docx, .txt \n
+Audio:     .mp3, .wav, .flac \n
+Others:    Any other unlisted extension \n
 
 HOW TO USE
 
