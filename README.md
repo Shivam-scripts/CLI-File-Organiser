@@ -29,14 +29,3 @@ Open your terminal or command prompt.
 Run the script using Python:
 python organizer.py
 Enter the absolute or relative path of the directory you want to organize when prompted.
-
-CUSTOMIZATION
-
-You can easily modify or expand the categories and file types by updating the folder_type list at the top of the script:
-folder_type = [
-{
-"folderName": "Images",
-"folderType": [".png", ".jpeg", ".jpg", ".gif"]  # Added .gif example
-},
-# Add new categories here
-]
